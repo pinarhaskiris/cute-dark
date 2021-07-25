@@ -4,7 +4,7 @@
     "description": "A dark theme with cute colors for VS Code.",
     "version": "1.0.2",
     "publisher": "pinarhaskiris",
-    "icon": "cute-dark/cute-dark-pp.png",
+    "icon": "cute-dark/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/pinarhaskiris/cute-dark"
